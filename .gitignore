@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node.js / React
+node_modules/
+build/
+dist/
+*.log
+
+# SQLite
+*.sqlite3
+*.db
+*.sqlite
+
+# VS Code / Codespaces
+.vscode/
